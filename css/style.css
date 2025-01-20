@@ -1,0 +1,33 @@
+h1{
+    width: 250px;
+    height: 600px;
+    background-color: #808080;
+    font-size: 1.5em;
+    color: white;
+    
+}
+#k1{
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    position: relative; left: 20px; top: 30px;
+
+}
+#k2{
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    position: relative; left: 20px; top: 50px;
+}
+#k3{
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    position: relative;left: 20px; top: 70px;
+}
+#k4{
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    position: relative; left: 20px; top: 90px;
+}
